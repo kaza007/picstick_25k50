@@ -6,7 +6,7 @@ PIC18F25K50 Pinguino compatible USB stick
 Background
 ------------
 
-The picstick_25k50 is a small PCB that can be connected directly into a USB connector. It is based on the [LeoStick (Arduino Compatible)](http://www.freetronics.com.au/products/leostick#.VWqnws-qpHw) form factor and the hardware is identical to the [PIC18F25K50 Pinguino](http://wiki.pinguino.cc/index.php/PIC18F45K50_Pinguino) except that the 28pin PIC is used instead of the 40pin.
+The picstick_25k50 is a small PCB that can be connected directly into a USB connector. It is based on the [LeoStick (Arduino Compatible)](http://www.freetronics.com.au/products/leostick#.VWqnws-qpHw) form factor and the hardware is identical to the [PIC18F45K50 Pinguino](http://wiki.pinguino.cc/index.php/PIC18F45K50_Pinguino) except that the 28pin PIC is used instead of the 40pin.
 
 The picstick_25k50 was created to add to the ever growing choice of PIC alternatives to Arduino. There are no surface mount components, so the picstick_25k50 is easy to build.
 
